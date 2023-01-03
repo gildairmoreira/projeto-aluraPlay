@@ -1,2 +1,23 @@
-# projeto-aluraPlay
- Projeto que e uma "Copia do youtube" Fiz ele para aprender a consumir Api, adicionar itens dentro dela e buscar itens especificos nela JSON
+<p align="center"> <img src="https://imgur.com/J3hD21O.png" alt="Javascript: criando requisições"> </p>
+
+<hr>
+
+<p align="center"> <img src="https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png" alt="Logo da Alura"> </p>
+<p align="center">Página inicial e formulário de cadastro de vídeos da AluraPlay, uma plataforma de compartilhamento de vídeos.</p>
+
+## Não tem como ver ele no Pages pois a Api usada foi hospedada Localmente
+
+
+## Tecnologias utilizadas durante o curso
+* Javascript
+* NodeJS
+* Json-server
+
+## Tecnologias utilizadas no projeto
+* HTML
+* CSS
+
+
+## Screenshots
+![Screenshot da tela inicial do AluraPlay](https://imgur.com/aymxEsh.png)
+![Screenshot da tela do formulário do AluraPlay](https://imgur.com/ShNADf2.png)
